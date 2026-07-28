@@ -5,6 +5,9 @@
 A Windows and macOS app that collects files from many folders into a single one, either by copying
 or by moving them.
 
+<img width="1170" height="771" alt="aftof_screen" src="https://github.com/user-attachments/assets/a88580e3-5d12-4db7-8e1e-30538ff876d8" />
+
+
 ## Why I built it
 
 After every trip I end up with a dozen folders: phone dumps, date-named folders from the camera,
